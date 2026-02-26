@@ -44,7 +44,7 @@ export default function CipherForm() {
   return (
     <div className="card">
       <img
-        src="src/assets/CRYPTO DASH.png" 
+        src="public/CRYPTO DASH.png" 
         alt="Shield Icon" 
         className="form-logo" 
       />
